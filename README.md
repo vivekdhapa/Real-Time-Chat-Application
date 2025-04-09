@@ -18,5 +18,5 @@ MyChat is a real-time chat web application built using **Node.js**, **Socket.IO*
 
 ---
 
-## 📁 Project Structure
+
 
